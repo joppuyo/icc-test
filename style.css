@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+.nav {
+    padding: 10px;
+}
+
+.nav > * {
+    padding-right: 10px;
+}
+
+.test-card {
+    height: 360px;
+    width: 640px;
+}
+
+.test-card-colors {
+    display: flex;
+    height: 280px;
+}
+
+.test-card-color {
+    width: 160px;
+    height: 280px;
+}
+
+.test-card-grayscale {
+    display: flex;
+    height: 80px;
+}
+
+.test-card-grayscale-item {
+    height: 80px;
+    width: 80px;
+}
+
+.image {
+    max-width: 640px;
+    height: auto;
+}
